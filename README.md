@@ -14,25 +14,3 @@ A personal portfolio site built with **React + Vite**, automatically deployed to
 | CI/CD | GitHub Actions |
 
 ---
-
-## Local Development
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/<your-username>/portfolio.git
-cd portfolio
-
-# 2. Install dependencies
-npm install
-
-# 3. Start dev server
-npm run dev
-# → opens at http://localhost:5173
-
-# 4. Build for production
-npm run build
-# → output in /dist
-```
-
----
-
