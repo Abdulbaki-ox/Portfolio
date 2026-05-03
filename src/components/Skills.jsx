@@ -4,7 +4,7 @@ import SectionTitle from './SectionTitle'
 const categories = [
   {
     label: 'Languages & Scripting',
-    items: ['Python (Basic)', 'Bash', 'SQL'],
+    items: ['Python', 'Bash', 'SQL'],
   },
   {
     label: 'Databases',

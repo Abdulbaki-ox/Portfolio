@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 const roles = [
   'Application Support Engineer',
   'SRE Practitioner',
-  'DevOps Engineer (in progress)',
+  'DevOps Engineer',
   'Payment Systems Specialist',
 ]
 
